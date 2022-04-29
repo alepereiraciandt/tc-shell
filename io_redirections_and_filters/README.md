@@ -11,3 +11,5 @@ feat: 4-lastlines - Script that display the last 10 lines of /etc/passwd
 feat: 5-firstlines - Script that displays the first 10 lines of /etc/passwd
 
 feat: 6-third_line - Script that displays the third line of the file iacta
+
+feat: 7-file - Script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by new line

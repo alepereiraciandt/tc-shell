@@ -5,3 +5,5 @@ feat: 1-confused_smiley - Script that gives you a confused smiley
 feat: 2-hellofile - Script that reads the content of /etc/passwd
 
 feat: 3-twofiles - Script that reads /etc/passwd and /etc/hosts concatenaded
+
+feat: 4-lastlines - Script that display the last 10 lines of /etc/passwd

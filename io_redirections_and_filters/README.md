@@ -9,3 +9,5 @@ feat: 3-twofiles - Script that reads /etc/passwd and /etc/hosts concatenaded
 feat: 4-lastlines - Script that display the last 10 lines of /etc/passwd
 
 feat: 5-firstlines - Script that displays the first 10 lines of /etc/passwd
+
+feat: 6-third_line - Script that displays the third line of the file iacta

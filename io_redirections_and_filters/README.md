@@ -24,3 +24,5 @@ feat: 10-no_more_js - Script that deletes all regular files with a .js extention
 feat: 11-directories - Script that counts the number of directories and sub-directories in the current directory
 
 feat: 12-newest_files - Script that displays the 10 newest files in the current dicrectory
+
+feat: 13-unique - Script that takes a list of words as input and returns only words that appers exactly once

@@ -7,3 +7,5 @@ feat: 2-hellofile - Script that reads the content of /etc/passwd
 feat: 3-twofiles - Script that reads /etc/passwd and /etc/hosts concatenaded
 
 feat: 4-lastlines - Script that display the last 10 lines of /etc/passwd
+
+feat: 5-firstlines - Script that displays the first 10 lines of /etc/passwd

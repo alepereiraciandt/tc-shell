@@ -26,3 +26,5 @@ feat: 11-directories - Script that counts the number of directories and sub-dire
 feat: 12-newest_files - Script that displays the 10 newest files in the current dicrectory
 
 feat: 13-unique - Script that takes a list of words as input and returns only words that appers exactly once
+
+feat: 14-findthatword - Script that displays lines containing the pattern "root" from the file /etc/passwd

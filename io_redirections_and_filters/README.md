@@ -22,3 +22,5 @@ feat: 9-duplicate_last_line - Script that duplicates the last line of the file i
 feat: 10-no_more_js - Script that deletes all regular files with a .js extention
 
 feat: 11-directories - Script that counts the number of directories and sub-directories in the current directory
+
+feat: 12-newest_files - Script that displays the 10 newest files in the current dicrectory

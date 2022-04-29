@@ -13,3 +13,5 @@ feat: 5-firstlines - Script that displays the first 10 lines of /etc/passwd
 feat: 6-third_line - Script that displays the third line of the file iacta
 
 feat: 7-file - Script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by new line
+
+feat: 8-cwd_state - Script that writes into the file ls_cwd_content the result of the commmand ls -la

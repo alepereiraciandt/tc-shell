@@ -17,3 +17,6 @@ feat: 7-file - Script that creates a file named exactly \*\\'"Best School"\'\\*$
 feat: 8-cwd_state - Script that writes into the file ls_cwd_content the result of the commmand ls -la
 
 feat: 9-duplicate_last_line - Script that duplicates the last line of the file iacta
+
+
+feat: 10-no_more_js - Script that deletes all regular files with a .js extention

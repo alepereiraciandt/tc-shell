@@ -40,3 +40,5 @@ feat: 18-letteronly - Script that displays all lines of the file /etc/ssh/sshd_c
 feat: 19-AZ - Script that replaces all characters A and C from a given input and output Z and e respectively
 
 feat: 20-hiago - Script that removes all letter C and c from a given input
+
+feat: 21-reverse - Script that reverse a given input

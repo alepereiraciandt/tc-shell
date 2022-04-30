@@ -48,3 +48,5 @@ feat: 22-users_and_homes - Script that displays all users and their home directo
 feat: 23-empty_casks - Script that finds all empty files and directories in the current directory and all sub-directories
 
 feat: 24-gifs - Script that lists all the files with a .gif extention in the current directory and all sub-directories
+
+feat: 25-acrostic - Script that decodes acrostics that use the first letter of each line

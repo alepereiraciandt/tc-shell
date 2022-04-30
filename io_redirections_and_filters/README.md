@@ -42,3 +42,5 @@ feat: 19-AZ - Script that replaces all characters A and C from a given input and
 feat: 20-hiago - Script that removes all letter C and c from a given input
 
 feat: 21-reverse - Script that reverse a given input
+
+feat: 22-users_and_homes - Script that displays all users and their home directories sorted by users

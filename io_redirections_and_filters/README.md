@@ -44,3 +44,5 @@ feat: 20-hiago - Script that removes all letter C and c from a given input
 feat: 21-reverse - Script that reverse a given input
 
 feat: 22-users_and_homes - Script that displays all users and their home directories sorted by users
+
+feat: 23-empty_casks - Script that finds all empty files and directories in the current directory and all sub-directories

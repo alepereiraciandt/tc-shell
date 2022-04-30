@@ -30,3 +30,5 @@ feat: 13-unique - Script that takes a list of words as input and returns only wo
 feat: 14-findthatword - Script that displays lines containing the pattern "root" from the file /etc/passwd
 
 feat: 15-countthatword - Script that Display the number of lines that contains the pattern "bin" in /etc/passwd file
+
+feat: 16-whatsnext - Script that displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd

@@ -50,3 +50,5 @@ feat: 23-empty_casks - Script that finds all empty files and directories in the 
 feat: 24-gifs - Script that lists all the files with a .gif extention in the current directory and all sub-directories
 
 feat: 25-acrostic - Script that decodes acrostics that use the first letter of each line
+
+feat: 26-the_biggest_fan - Script that parses web servers logs in TVS format as input and displays the 11 host or IP addresses which did the most requests

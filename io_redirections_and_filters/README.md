@@ -36,3 +36,5 @@ feat: 16-whatsnext - Script that displays lines containing the pattern "root" an
 feat: 17-hidethisword - Script that displays all lines in /etc/passwd that doesn't contain the pattern "bin"
 
 feat: 18-letteronly - Script that displays all lines of the file /etc/ssh/sshd_config starting with a letter
+
+feat: 19-AZ - Script that replaces all characters A and C from a given input and output Z and e respectively

@@ -32,3 +32,5 @@ feat: 14-findthatword - Script that displays lines containing the pattern "root"
 feat: 15-countthatword - Script that Display the number of lines that contains the pattern "bin" in /etc/passwd file
 
 feat: 16-whatsnext - Script that displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
+
+feat: 17-hidethisword - Script that displays all lines in /etc/passwd that doesn't contain the pattern "bin"
